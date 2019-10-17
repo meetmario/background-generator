@@ -1,0 +1,24 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background Generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetmario/background-generator.git"
+  },
+  "keywords": [
+    "gradient",
+    "background",
+    "generator"
+  ],
+  "author": "Mario Olofsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meetmario/background-generator/issues"
+  },
+  "homepage": "https://github.com/meetmario/background-generator#readme"
+}
